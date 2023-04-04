@@ -1,0 +1,140 @@
+@font-face {
+	src: url("OpenSans-ExtraBoldItalic.ttf");
+	font-family: "OpenSans ExtraBoldItalic";
+}
+
+@font-face {
+	src: url("OpenSans-BoldItalic.ttf");
+	font-family: "OpenSans BoldItalic";
+}
+
+@font-face {
+	src: url("OpenSans-Regular.ttf");
+	font-family: "OpenSans Regular";
+}
+
+
+body{
+	font-family: "OpenSans BoldItalic", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+/*  	background-image: url(https://abrakadabra.fun/uploads/posts/2022-02/1644388892_1-abrakadabra-fun-p-zadnii-fon-dlya-saita-1.jpg)*/
+	
+}
+
+.text{
+	color: white;
+}
+
+
+#button{
+	background-color: #FFD700;
+	font-family: "OpenSans ExtraBoldItalic";
+	font-size: 27px;
+	width: 150px;
+	height: 50px;
+    position: relative;
+    margin-left: 1000px;
+    border-radius: 5px;
+    position: fixed;
+    top: 550px;
+    left: 100px;
+    cursor: no-drop;
+}
+
+
+#meny{
+	font-size: 30px;
+	text-align: center;
+	position: fixed;
+	right: 260px;
+}
+
+
+#rabot{
+	font-size: 30px;
+	text-align: center;
+}
+
+
+h1{
+	color: yellow;
+}
+
+
+
+#moe_foto{
+	width:250px; 
+	height:300px;
+	border: 15px ridge;
+	border-color: yellow;
+	border-radius: 100px ;
+}
+
+
+.nach{
+	background:blue;
+	color: white;
+}
+
+
+.obych{
+	color: white;
+}
+
+
+.date{
+	background: green;
+}
+
+
+#rabo{
+	color: lightblue;
+}
+
+
+h5{
+	font-size: 25px;
+	background: lightblue;
+	color: black;
+}
+
+
+.Contact{
+	font-size: 22px;
+}
+
+
+a[href="#contact"] {
+	background: lightgoldenrodyellow;
+}
+
+
+a[href="#"]{
+	background: lightgoldenrodyellow;
+}
+a:hover{
+	background: #FFD700;
+}
+
+
+ul:hover{
+    background: orange;
+}
+
+
+#Obrazec_stranici{
+	height:300px;
+	border-color: black;
+	margin: 10px 10px 20px 100px;
+	padding: 30px;
+}
+
+
+#obrazec_stranici{
+	height:300px;
+	border-color: black;
+	margin: -386px 10px 20px 60px;
+	padding: 30px;
+}
+
+
